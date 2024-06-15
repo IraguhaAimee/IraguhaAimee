@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @IraguhaAimee
-- 👀 I’m interested in JAVA programming language,C,C++,PHP,CSS & HTML.
+- 👀 I’m interested in JAVA programming language,C,C++,PHP,CSS & HTML,JS,NODE JS.
 - 🌱 I’m currently learning Computer Science
+- I'm interested also in Website Design by using Wordpress,Framer etc.
 
 
 <!---
